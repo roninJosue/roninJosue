@@ -21,3 +21,4 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img align="left" alt="Reynaldo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roninJosue&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roninJosue&layout=compact/" width="208" height="auto"/>
