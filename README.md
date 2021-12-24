@@ -5,7 +5,7 @@
 
 ### About
 
--  **Working :** Currently working as Web Developer at UNIVERSIDAD NACIONAL AUTONOMA DE NICARAGUA - León
+-  **Working :** Currently working as Full Stack Developer
 -  **Learning :** ReactJs :zap: | Laravel :fire:	
 -  **Languages :** Php, JavaScript, Css, Html  💻
 -  **Interest :** Looking to collaborate in a project in ReactJs or NodeJS to improve my skills
