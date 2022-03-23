@@ -12,12 +12,6 @@
 -  **Hobbies :** Read 📕 & Music :headphones:
 -  **Fact :** A person who never made a mistake never tried anything new. :heart:
 
-## ✨ Visitors count
-
-<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=roninJosue" alt="roninJosue" /> </p> -->
-
-![VisitorCount](https://profile-counter.glitch.me/{roninJosue}/count.svg)
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
